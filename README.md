@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋, My name is José Eduardo, im studing in Alura i am desenvolving the javascript language, i utilizing the espace for my organization and to share my desenvolving projets
+you can enter contact to me in email (00001098580060sp@al.educacao.sp.gov.br)
 <!--
 **Tapioca1C/Tapioca1C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
